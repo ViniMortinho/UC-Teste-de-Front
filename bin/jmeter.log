@@ -1,0 +1,27 @@
+2023-09-06 19:54:08,095 INFO o.a.j.u.JMeterUtils: Setting Locale to pt_BR
+2023-09-06 19:54:08,117 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2023-09-06 19:54:08,117 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2023-09-06 19:54:08,130 INFO o.a.j.JMeter: Copyright (c) 1998-2023 The Apache Software Foundation
+2023-09-06 19:54:08,130 INFO o.a.j.JMeter: Version 5.6.2
+2023-09-06 19:54:08,130 INFO o.a.j.JMeter: java.version=1.8.0_202
+2023-09-06 19:54:08,130 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2023-09-06 19:54:08,130 INFO o.a.j.JMeter: os.name=Windows 10
+2023-09-06 19:54:08,130 INFO o.a.j.JMeter: os.arch=amd64
+2023-09-06 19:54:08,130 INFO o.a.j.JMeter: os.version=10.0
+2023-09-06 19:54:08,131 INFO o.a.j.JMeter: file.encoding=Cp1252
+2023-09-06 19:54:08,131 INFO o.a.j.JMeter: java.awt.headless=null
+2023-09-06 19:54:08,131 INFO o.a.j.JMeter: Max memory     =3795845120
+2023-09-06 19:54:08,131 INFO o.a.j.JMeter: Available Processors =4
+2023-09-06 19:54:08,143 INFO o.a.j.JMeter: Default Locale=português (Brasil)
+2023-09-06 19:54:08,143 INFO o.a.j.JMeter: JMeter  Locale=português (Brasil)
+2023-09-06 19:54:08,143 INFO o.a.j.JMeter: JMeterHome=C:\Users\samanta.melissa\Desktop\apache-jmeter-5.6.2
+2023-09-06 19:54:08,143 INFO o.a.j.JMeter: user.dir  =C:\Users\samanta.melissa\Desktop\apache-jmeter-5.6.2\bin
+2023-09-06 19:54:08,144 INFO o.a.j.JMeter: PWD       =C:\Users\samanta.melissa\Desktop\apache-jmeter-5.6.2\bin
+2023-09-06 19:54:08,145 INFO o.a.j.JMeter: IP: 172.16.20.124 Name: DESKTOP-QTOOCJ3 FullName: DESKTOP-QTOOCJ3.info.local
+2023-09-06 19:54:08,168 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2023-09-06 19:54:08,486 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
+2023-09-06 19:54:39,325 INFO o.a.j.g.JMeterUIDefaults: Applying font scale factor: 1.1
+2023-09-06 19:54:41,581 INFO o.a.j.g.JMeterUIDefaults: Applying font scale factor: 1.21
+2023-09-06 19:54:44,494 INFO o.a.j.g.JMeterUIDefaults: Applying font scale factor: 1.3310001
+2023-09-06 19:54:46,309 INFO o.a.j.g.JMeterUIDefaults: Applying font scale factor: 1.4641001
+2023-09-06 19:54:48,148 INFO o.a.j.g.JMeterUIDefaults: Applying font scale factor: 1.6105101
